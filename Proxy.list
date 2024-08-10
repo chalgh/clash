@@ -32,7 +32,7 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 
 # My list
-DOMAIN-KEYWORD,keeflys
-DOMAIN-KEYWORD,emoton
+DOMAIN-SUFFIX,keeflys.com
+DOMAIN-SUFFIX,emoton.com
 DOMAIN-SUFFIX,miru.cloud
 DOMAIN-SUFFIX,fmta.boo
