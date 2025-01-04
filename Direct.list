@@ -26,3 +26,6 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 # My list
 DOMAIN-KEYWORD,wogg
+DOMAIN-KEYWORD,饭太硬
+DOMAIN-SUFFIX,xxooo.cf
+
