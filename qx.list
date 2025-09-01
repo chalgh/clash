@@ -1,20 +1,3 @@
-HOST,voice.telephony.goog
-HOST-SUFFIX,liminalnet.site
-HOST-SUFFIX,xxlb.net
-HOST-SUFFIX,51cg.fun
-HOST-SUFFIX,missav.ws
-HOST-SUFFIX,123av.com
-HOST-SUFFIX,jable.tv
-HOST-SUFFIX,taiav.com
-HOST-SUFFIX,miaona.org
-HOST-SUFFIX,bing.com
-HOST-SUFFIX,coomer.su
-HOST-SUFFIX,fmta.boo
-HOST-KEYWORD,emby
-HOST-KEYWORD,jellyfin
-HOST-KEYWORD,porn
-HOST-KEYWORD,github
-
 host-suffix, voice.telephony.goog, 美国节点
 host-suffix, liminalnet.site, 国际媒体
 host-suffix, xxlb.net, 国际媒体
