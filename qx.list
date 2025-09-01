@@ -14,3 +14,22 @@ HOST-KEYWORD,emby
 HOST-KEYWORD,jellyfin
 HOST-KEYWORD,porn
 HOST-KEYWORD,github
+
+host-suffix, voice.telephony.goog, 美国节点
+host-suffix, liminalnet.site, 国际媒体
+host-suffix, xxlb.net, 国际媒体
+host-suffix, 51cg.fun, 全球加速
+host, cf.bili.rip, direct
+host-keyword, emby, 国际媒体
+host-suffix, missav.ws, 全球加速
+host-suffix, 123av.com, 全球加速
+host-suffix, jable.tv, 全球加速
+ip-cidr, 10.0.0.0/24, 家
+host-suffix, coomer.su, 全球加速
+host-suffix, music.126.net, direct
+host-suffix, fmta.boo, 全球加速
+host-suffix, jellyfin.asia, direct
+host-suffix, taiav.com, 全球加速
+host-keyword, porn, 全球加速
+host-suffix, bing.com, direct
+host-suffix, miaona.org, 全球加速
