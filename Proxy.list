@@ -46,9 +46,9 @@ DOMAIN-SUFFIX,一分机场.com
 DOMAIN-SUFFIX,gamma.app
 #domain-suffix,voice.telephony.goog
 #domain-suffix,liminalnet.site
-domain-suffix,xxlb.net
-domain-suffix,51cg.fun
-domain-suffix,cg51.com
+DOMAIN-SUFFIX,xxlb.net
+DOMAIN-SUFFIX,51cg.fun
+DOMAIN-SUFFIX,cg51.com
 domain-keyword,emby
 #domain-suffix,123av.com
 domain-suffix,coomer.su
@@ -60,7 +60,7 @@ domain-keyword,赔钱机场
 domain-keyword,良心云
 domain-suffix,gamma.app
 domain-keyword,aladingnet
-domain-keyword,0085
-domain-suffix,yfamilys.com
-domain-suffix,103516.xyz
+DOMAIN-SUFFIX,0085
+DOMAIN-SUFFIX,yfamilys.com
+DOMAIN-SUFFIX,103516.xyz
 domain-suffix,xn--9kqz23b19z.com
